@@ -94,6 +94,3 @@ hipster --help
 This project is a containerized version of the [Stellarium HIPSTER Tool](https://github.com/Stellarium/stellarium-data), which is part of the Stellarium project. The original code and this containerized version are licensed under the GNU General Public License v2.0.
 
 For more details, see the [Stellarium Project License](https://github.com/Stellarium/stellarium-data/blob/master/LICENSE).
-# stellarium-hipster
-# stellarium-hipster
-# stellarium-hipster
