@@ -95,3 +95,4 @@ This project is a containerized version of the [Stellarium HIPSTER Tool](https:/
 
 For more details, see the [Stellarium Project License](https://github.com/Stellarium/stellarium-data/blob/master/LICENSE).
 # stellarium-hipster
+# stellarium-hipster
